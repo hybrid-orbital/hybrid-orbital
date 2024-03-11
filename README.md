@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm hybrid_orbital 👋
+- ⚡ Fun fact: I barely write code
 <!--
 **hybrid-orbital/hybrid-orbital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
