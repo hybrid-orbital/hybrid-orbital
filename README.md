@@ -1,5 +1,5 @@
 ### Hi, I'm hybrid_orbital 👋
-- ⚡ Fun fact: I can't use '_' in my username so I choose '-'
+- ⚡ Fun fact: I can't use '_' in my username so it was replaced with '-'
 <!--
 **hybrid-orbital/hybrid-orbital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
